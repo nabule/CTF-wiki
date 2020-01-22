@@ -1,2 +1,2 @@
-# CTF-wiki
+# CTF
 jhjjfsdga
